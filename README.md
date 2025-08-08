@@ -4,11 +4,11 @@
 A tool to automate network and web vulnerability scanning using Nmap and OWASP ZAP, with a web dashboard to view results.
 
 ## Tech Stack  
-- Python 3.x, Flask/FastAPI  
+- Python 3.x, Flask
 - Nmap, OWASP ZAP  
 - PostgreSQL/SQLite  
 - Celery + Redis  
-- React.js (optional)  
+- React.js
 - Docker  
 
 ## How to Run  
